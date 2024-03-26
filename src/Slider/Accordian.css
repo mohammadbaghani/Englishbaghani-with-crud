@@ -1,0 +1,836 @@
+.subtext {
+    font-size: 15px !important;
+    height: 180px;
+    top: -29px;
+    position: relative;
+    left: 20px
+}
+
+@media only screen and (max-width:1200px) {
+    .circle-border {
+
+        display: none;
+    }
+    .css-19wkpd7-MuiButtonBase-root-MuiAccordionSummary-root {
+        background-color: transparent !important;
+    }
+
+    .css-14ueyac,
+    .css-1wh7kkw,
+    .css-m7ku5p-MuiButtonBase-root-MuiAccordionSummary-root {
+        background-color: transparent !important
+    }
+
+    .css-a3krkh-MuiPaper-root-MuiAccordion-root {
+        position: relative !important;
+        top: 20px
+    }
+
+    .acordian,
+    .acordian__item,
+    .container,
+    .subtext {
+        position: relative
+    }
+
+    .css-a3krkh-MuiPaper-root-MuiAccordion-root.Mui-expanded:last-of-type {
+        margin-bottom: 0
+    }
+
+    .subtext {
+        font-size: 15px !important;
+        height: 180px !important;
+        top: -29px;
+        left: 20px;
+        direction: rtl
+    }
+
+    .container {
+        max-width: 100%;
+        top: 351px
+    }
+
+    .acordian__item {
+        border-radius: 2px !important;
+        display: flex;
+        overflow: hidden;
+        width: 466px;
+        margin-left: auto;
+        right: 0;
+        margin-bottom: 27px;
+        z-index: 1;
+        margin-right: auto;
+        top: -67px;
+        height: auto;
+        min-height: 87px;
+        font-size: 45px;
+
+        display: flex;
+        align-items: center;
+        color: black !important;
+        background-image: linear-gradient(to left, #f5f3f8, #fcfcfc);
+
+
+        box-shadow: 0 2px 9px 2px #d8d8d8;
+
+
+    }
+
+    .css-1q13jnw-MuiSvgIcon-root {
+
+        top: 0px !important;
+        flex-shrink: 0;
+        margin-right: -80px;
+    }
+
+    .acordian,
+    .question-images {
+        margin-right: auto !important
+    }
+
+    .acordian {
+        margin-left: auto !important;
+        height: 730px !important;
+        margin-top: -2184px;
+        background-image: linear-gradient(to left bottom, #2a3cc1, rgb(33, 59, 177));
+        margin-bottom: 43px;
+    
+    }
+
+    .acordian-items,
+    .question-images {
+        position: absolute;
+        right: 0 !important;
+        left: 0 !important;
+        margin-left: auto !important
+    }
+
+    .question-images {
+        width: 450px !important;
+        height: 450px !important;
+        top: -630px !important;
+   
+        transform: scale(1.3);
+    }
+
+    .acordian-items {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-top: -38rem;
+        padding-left: 0;
+        width: 759px;
+        top: 534px;
+        background-color: transparent;
+        margin-right: auto
+    }
+
+    .valed-paraent-border {
+        top: -592px !important;
+        position: relative !important;
+        right: 0;
+        left: 0;
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom: -236px
+    }
+
+    .css-1q13jnw-MuiSvgIcon-root,
+    .font {
+        position: relative;
+        color: #1b1a1a !important
+    }
+
+    .font {
+        direction: rtl;
+        height: 22px;
+        width: 400px;
+        font-size: 16px !important;
+        padding-right: 10px;
+        left: 0;
+        color: black !important;
+        font-family: 'Kalame';
+    
+    }
+
+    .css-1fx8m19 {
+        color: #fff !important
+    }
+
+    .css-1q13jnw-MuiSvgIcon-root {
+
+
+
+        padding-top: 4px !important;
+        top: -5px !important;
+        margin-right: 6px;
+        position: relative;
+    }
+
+    .css-a3krkh-MuiPaper-root-MuiAccordion-root {
+        background-color: transparent !important;
+        color: rgba(255, 255, 255, .87)
+    }
+}
+
+@media only screen and (max-width:992px) {
+
+    .acordian-items,
+    .subtext {
+        position: relative;
+        direction: rtl
+    }
+
+    .question-images {
+        top: -1042px !important;
+    }
+
+    .css-14ueyac,
+    .css-1wh7kkw {
+        background-color: transparent !important
+    }
+
+    .css-1q13jnw-MuiSvgIcon-root {
+        position: relative;
+        margin-right: 9px !important;
+        height: 15px
+    }
+
+    .acordian-items {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin-top: -164px;
+        padding-left: 0;
+        width: 99% !important;
+        right: -71px
+    }
+
+    .subtext {
+        height: 180px !important;
+        padding-right: 50px;
+        font-size: 15px !important;
+        top: -29px;
+        left: 55px;
+        width: 390px
+    }
+
+    .acordian__item,
+    .valed-paraent-border {
+        left: 0;
+        margin-right: auto;
+        margin-left: auto
+    }
+
+    .acordian__item {
+        width: 538px;
+        top: -491px;
+        right: 0
+    }
+
+    .acordian {
+        height: 795px !important;
+        padding-bottom: 100px;
+        padding-top: 177px;
+        top: 1517px;
+    }
+
+    .css-x1tti5 {
+
+
+
+        font-size: 2rem;
+        right: -22px !important;
+        position: relative !important;
+        transform: scale(1.2) !important;
+        fill: #101038 !important
+    }
+
+    .valed-paraent-border {
+        top: -1018px !important;
+        position: relative !important;
+        right: 0;
+        width: 100%;
+        z-index: 4
+    }
+
+    .container {
+        max-width: 100%;
+        position: relative;
+        top: 859px
+    }
+
+
+    .question-images {
+        width: 400px !important;
+        height: 400px !important;
+
+        opacity: .9;
+        transform: scale(1);
+    }
+}
+
+@media only screen and (max-width:768px) {
+    .question-images {
+        top: -427px !important;
+        transform: scale(.85);
+    }
+
+    .css-14ueyac,
+    .css-1wh7kkw {
+        background-color: transparent !important
+    }
+
+    .css-1ljbola-MuiButtonBase-root-MuiAccordionSummary-root {
+        display: inline-flex;
+        position: relative;
+        box-sizing: border-box;
+
+
+        border-radius: 0;
+        padding: 0 16px;
+        cursor: pointer;
+
+
+
+        color: inherit;
+        display: flex;
+        min-height: 48px;
+
+
+        background-color: rgba(0, 0, 0, .03);
+        flex-direction: row;
+        right: -26px
+    }
+
+    .acordian-items,
+    .valed-paraent-border {
+        margin-right: auto !important;
+        margin-left: auto !important
+    }
+
+    .acordian-items {
+        display: flex;
+        width: 85% !important;
+        margin-top: -55rem;
+        padding-left: 0;
+        position: absolute;
+        left: 0 !important;
+        direction: rtl;
+        right: 0 !important
+    }
+
+    .subtext {
+        font-size: 15px !important;
+        height: 180px;
+        top: -29px;
+        position: relative;
+        left: 58px;
+        direction: rtl
+    }
+
+    .acordian__item {
+        margin-bottom: 18px;
+        position: relative !important;
+        top: 156px;
+        align-items: center;
+        display: flex;
+        width: 90%
+    }
+
+    .acordian {
+        width: 88% !important;
+        top: 2493px;
+        height: 754px !important;
+    }
+
+    .css-1q13jnw-MuiSvgIcon-root {
+
+
+
+
+
+        font-size: 2rem;
+        right: 32px;
+        position: relative
+    }
+
+    .valed-paraent-border {
+        top: -3834px !important;
+        position: relative !important;
+        right: 0 !important;
+        left: 0 !important;
+        height: 93px !important;
+        width: 100% !important
+    }
+}
+
+@media only screen and (max-width:576px) {
+
+    .acordian-items,
+    .acordian__item,
+    .valed-paraent-border {
+        margin-right: auto !important;
+        margin-left: auto !important
+    }
+
+    .slider-details-videosub {
+        right: 20px !important;
+        top: 505px !important;
+        font-size: 14px !important;
+        line-height: 21px !important;
+        width: 53% !important;
+        min-width: 300px;
+    }
+
+    .slider-details-video {
+        width: 100% !important;
+        margin-top: 2140px;
+        font-size: 26px !important
+    }
+
+    .valed-paraent-border {
+        top: -3271px !important;
+        position: relative !important;
+        right: 0 !important;
+        left: 0 !important;
+        height: 2000px !important;
+        width: 100% !important
+    }
+
+    .css-1q13jnw-MuiSvgIcon-root {
+
+
+
+
+        font-size: 2rem;
+        right: -102px;
+        position: relative
+    }
+
+    .css-14ueyac,
+    .css-1wh7kkw {
+        background-color: transparent !important
+    }
+
+    .acordian {
+        display: flex !important;
+        top: 6591px;
+        position: absolute !important;
+        margin-top: 269px;
+        z-index: 2 !important;
+        height: 739px !important;
+        margin-bottom: 62px;
+        width: 87% !important
+    }
+
+    .question-images {
+        height: 75% !important;
+        width: 90% !important;
+        display: flex !important;
+        top: -450px !important;
+        transform: scale(.6) !important
+    }
+
+    .acordian__item,
+    .font {
+        display: flex;
+        z-index: 1 !important
+    }
+
+    .css-1ljbola-MuiButtonBase-root-MuiAccordionSummary-root .MuiAccordionSummary-content {
+        margin-left: -15px !important
+    }
+
+    .acordian__item {
+        right: -35px !important;
+        top: -12px !important;
+        width: 99% !important;
+        position: relative !important;
+        padding-right: 103px !important;
+        font-size: 47px;
+        border-radius: 0px !important;
+        height: min-content;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding-left: 4px
+    }
+
+    .font,
+    .subtext {
+        font-size: 11px !important
+    }
+
+    .subtext {
+        top: -29px;
+        position: relative;
+        left: 20px;
+        width: 355px !important;
+        right: -54px;
+        direction: rtl
+    }
+
+    .font {
+        direction: rtl !important;
+        left: 45px;
+        width: 311px !important;
+        width: 100%;
+        height: 100%;
+        padding-top: 13px;
+        justify-content: flex-start;
+        padding-right: 40px;
+
+    }
+
+    .acordian-items {
+        direction: rtl;
+        flex-wrap: wrap;
+        left: 0 !important;
+        margin-top: -41rem;
+        width: 100% !important;
+        border-radius: 3px;
+        padding-right: 72px;
+        height: 535px;
+        z-index: 1 !important;
+        margin-bottom: 45px;
+        position: absolute !important;
+        display: flex !important
+    }
+
+    .css-1n11r91 {
+        display: flex;
+        -webkit-box-flex: 1;
+        flex-grow: 1;
+        margin: 3px 0
+    }
+
+    .css-dn63hr .MuiAccordionSummary-content {
+        margin-top: -7px
+    }
+}
+
+@media screen and (max-width:338px) {
+    .acordian-items {
+        direction: rtl;
+        flex-wrap: wrap;
+        left: 0;
+        width: 333px;
+        background-color: #111c82;
+        border-radius: 3px;
+        padding-right: 72px;
+        height: 535px;
+        z-index: 1 !important;
+        right: -98px;
+        position: absolute;
+        margin: -39rem auto 24px
+    }
+
+    .acordian,
+    .acordian__item {
+        margin-right: auto;
+        margin-left: auto
+    }
+
+    .css-1q13jnw-MuiSvgIcon-root {
+
+
+
+        fill: #73737a;
+
+
+        font-size: 22px !important;
+        right: -312px;
+        position: absolute;
+        top: -11px;
+        transform: scale(.5)
+    }
+
+    .logoimage {
+        color: #fff !important;
+        border-radius: 150px;
+        width: 50px;
+        height: 50px;
+        top: -3px;
+        left: 28px !important;
+        border: 1px solid #fff;
+        opacity: 1;
+        position: absolute;
+        right: 21px;
+        transform: scale(.5)
+    }
+
+    .font {
+        color: #0a0644 !important;
+        direction: rtl !important;
+        font-size: 9px !important;
+        font-weight: 500;
+        height: 15px;
+        left: 45px;
+        padding-right: 40px;
+        padding-top: 9px;
+        text-align: right;
+        width: 500px;
+        word-spacing: 0.5px;
+        z-index: 1 !important
+    }
+
+    .acordian {
+        font-family: yekan;
+        top: 2844px;
+        background-color: #1735e2;
+        height: 585px !important;
+        width: 152%;
+        z-index: 1;
+        display: block;
+        position: absolute !important;
+        right: -25px
+    }
+
+    .acordian__item {
+        overflow-x: hidden !important;
+        width: 102% !important;
+        padding-right: 0;
+        padding-left: 0;
+        position: relative;
+        overflow-y: hidden;
+        height: 6837px;
+        padding-top: 66px
+    }
+}
+
+@media only screen and (min-width:1200px) {
+
+    .css-14ueyac,
+    .css-1wh7kkw,
+    .css-a3krkh-MuiPaper-root-MuiAccordion-root {
+        background-color: transparent !important
+    }
+
+    .question-images {
+        transform: scale(1);
+        width: 1200px;
+        height: 750px !important;
+        position: absolute;
+        right: 0px !important;
+        left: 0px !important;
+        top: -70px !important;
+        margin-right: auto !important;
+        margin-left: auto !important;
+        border-bottom: none;
+     
+        border-radius: 0px;
+    }
+    .css-1q13jnw-MuiSvgIcon-root {
+
+
+
+        font-size: 2rem;
+        position: relative;
+        right: -3px;
+        transform: scale(1);
+        color: transparent !important;
+        font-weight: 400;
+        margin-right: auto
+    }
+
+    .container {
+        max-width: 100%
+    }
+
+
+    .acordian__item {
+        padding-top: 6px;
+        display: flex;
+        left: 0 !important;
+        margin-left: auto !important;
+        position: relative;
+        right: 50px !important;
+        top: -225px;
+        width: fit-content;
+        z-index: 2 !important;
+        min-height: 101px !important;
+        color: #020202 !important;
+        overflow: hidden;
+        transform: scale(.9);
+        margin-top: -25px;
+        align-items: center;
+        justify-content: flex-start;
+        max-height: 281px;
+        border-radius: 0px;
+    
+    }
+
+    .css-a3krkh-MuiPaper-root-MuiAccordion-root {
+        position: relative !important;
+        top: -10px !important;
+        color: #160c0c !important
+    }
+
+    .css-a3krkh-MuiPaper-root-MuiAccordion-root.Mui-expanded:last-of-type {
+        height: 300px;
+        width: inherit;
+        background-color: transparent !important
+    }
+
+    .css-14ueyac {
+        flex-direction: row
+    }
+
+    .css-m7ku5p-MuiButtonBase-root-MuiAccordionSummary-root {
+
+        position: relative;
+
+
+
+        padding: 0 16px;
+
+        display: flex;
+        min-height: 48px;
+        color: #160c0c !important;
+        background-color: transparent !important;
+    }
+
+
+
+
+
+    .acordian {
+        text-align: center;
+        display: flex;
+        padding: 656px 320px 10rem 4px;
+        top: 820px;
+        position: relative;
+        height: 600px;
+        width: 80%;
+        right: 0;
+        z-index: 55165554522 !important;
+       background-color: transparent!important;
+        margin: -1171px auto 14px;
+        left: 0;
+
+
+    }
+
+    .font,
+    .subtext {
+        text-align: right;
+        direction: rtl;
+        font-family: dana;
+        font-weight: 500 !important;
+        word-spacing: 0.5px;
+        z-index: 1 !important
+    }
+
+    .acordian-items {
+        padding-top: 278px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        position: absolute !important;
+        top: 20px;
+        padding-left: 0;
+        right: -50px !important;
+        left: 0 !important;
+        margin-right: auto !important;
+        margin-left: auto !important;
+        width: 900px;
+        border-radius: 4px;
+        height: 800px;
+    
+    }
+
+    .font {
+        padding-right: 47px !important;
+        display: flex;
+        align-items: center;
+        width:500px!important;
+        font-size: 20px !important;
+        margin-left: -119px;
+        font-family: 'Kalame' !important;
+        padding-top: 24px;
+        color: #000000 !important;
+        background-color: transparent !important;
+        overflow: hidden;  transition: all .1s;
+        font-weight: 500 !important;
+        border: 1px solid rgb(37, 82, 180);
+        height: 60px;
+        padding-bottom: 30px;
+        text-align: center;
+        padding: 23px;
+        justify-content: center;
+        border-radius: 7px;
+        margin-top: 4px;
+    }
+
+    .font:hover {
+    transition: all .3s;
+    color: #3d9dca!important; border: 1px solid #3d9dca!important;
+    }
+
+    .font:hover .circle-border {
+        transition: all .3s;
+
+  background-color:  #3d9dca!important;
+    }  
+    
+
+    .circle-border {      align-items: center !important;
+        background-color: #1d75b0 !important;
+        border-radius: 230px;
+        color: #fff !important;
+        display: flex !important;
+        height: 30px;
+        justify-content: center !important;
+        left: 839px !important;
+        padding-top: 3px;
+        font-size: 23px !important;
+        position: absolute;
+        top: 30px !important;
+        transform: scale(1.16);
+        width: 30px;
+    
+    }
+    .subtext {
+        color: rgb(4, 4, 160) !important; color: rgb(0, 0, 90) !important; color: rgb(0, 0, 44) !important;
+        height: 179px !important;
+        width: fit-content !important;
+        padding: 4px !important;
+        font-size: 21px !important;
+        right: 0;
+        top: -30px;
+        border-radius: 10px;  transition: all .1s;
+        border: 1px solid rgb(66, 111, 207);
+        margin-top: 16px;
+        margin-top: 16px;
+        border: none!important;
+       
+    }
+    .font:hover.subtext {
+        transition: all .1s;
+        border:none!important;
+        color: #3d9dca!important;
+    }
+
+    .acordian__item:hover .subtext{    transition: all .1s;
+
+        color: #3d9dca!important;
+     
+    }
+    .css-yw020d-MuiAccordionSummary-expandIconWrapper {
+        color: transparent !important;
+        background-color: transparent !important;
+    }
+
+    .css-19wkpd7-MuiButtonBase-root-MuiAccordionSummary-root {
+        background-color: transparent !important;
+    }
+
+    .css-1fx8m19 {
+        color: transparent !important
+    }
+
+    .css-1e6r925 {
+        background-color: transparent !important;
+    }
+}

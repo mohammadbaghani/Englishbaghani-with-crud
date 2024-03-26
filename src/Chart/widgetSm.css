@@ -1,0 +1,98 @@
+.widgetSm {
+    flex: 1;
+    padding: 20px;
+    margin-right: 20px;
+    box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75); margin-top: 100px;
+}
+
+.widgetSmTitle {
+    font-size: 20px;
+    font-weight: 600;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 15px;
+    border: 1px solid rgb(153, 153, 153)!important;
+    border-radius: 10px;
+}
+
+.widgetSmList {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.WidgetLgName{
+    background-color: #02028a;
+    padding:0px;
+    border-radius: 20px;
+    top: 30PX;
+
+    font-size: 13px;
+    color: #ffffff;
+    justify-content: center;
+height: 50%;
+    font-family: 'dana';
+font-weight: 400;
+margin-right: auto;
+margin-left: auto;
+right: 0px;
+left: 0px;
+width:180px;
+    border: 2px solid black;display: flex;
+    align-items: center;
+    position: absolute;
+}
+
+.widgetSmListItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.widgetSmImg {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.widgetSmUser {
+    display: flex;
+    flex-direction: column; background-color: rgb(255, 255, 255);
+    color: #000000!important;
+  padding: 10px;
+    border-radius: 20px;
+
+    border: 2px solid black!important;
+}
+
+.widgetSmUserName {
+    font-weight: 600;
+    background-color: rgb(255, 255, 255);
+    color: #000000!important;
+}
+
+.widgetSmUserTitle {
+    font-weight: 300;color: #000000!important;
+}
+
+.widgetSmButton {
+    display: flex;
+    align-items: center;
+    border: none;
+    border-radius: 10px;
+    padding: 7px 10px;
+   
+    color: #000000;
+    cursor: pointer;
+
+}
+
+.widgetSmIcon {
+    font-size: 16px !important;
+
+}
+.WidgetLgButton{
+    background-color: transparent;
+    color: #000000;
+}

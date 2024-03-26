@@ -1,0 +1,150 @@
+iframe#webpack-dev-server-client-overlay{display:none!important}
+.chart {
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 0 0 15px -10px rgba(0, 0, 0, 0.75);
+}
+
+.chartTitle {
+    margin-bottom: 20px;
+}
+.black{
+  color: #000;
+  background-color: blue;
+  right: 600px!important;
+}
+.black{
+  color: blue;
+  background-color: rgb(255, 145, 0)!important;
+}
+
+
+.recharts-default-tooltip{
+  color: rgb(0, 0, 0)!important;
+  background-color: rgb(255, 255, 255)!important;
+  display: block!important;
+  opacity: 1!important;
+  box-shadow: none!important;
+border: none!important;
+}
+p{
+  font-family: 'kalame';
+  color: rgb(250, 250, 250)!important;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+.recharts-tooltip-item-value{font-size: 17px;
+  color: rgb(0, 0, 0)!important;border: none!important;
+ 
+}
+.recharts-tooltip-item-name{
+  color: rgb(0, 0, 0)!important;border: none!important;
+  font-size: 18px;  background-color: rgb(255, 255, 255)!important;
+}
+
+
+  .image-chart {
+    width:50px!important;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 50px;
+    border-radius: 50px;
+    border: 2px solid transparent;
+    margin-left: auto;
+    right: -100px;
+    left: 0px;
+    margin-right:auto;
+    background-color: rgb(245, 245, 245);
+    padding: 7px;
+    position: relative;
+
+}
+.image-chart-parent{
+  position: relative;
+  width: 100%;
+height: auto;
+  background-color: rgb(247, 245, 245);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  top:-200px;
+
+  
+}
+.image-middle-chart{
+
+  width: 50%!important;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  height: 50px;
+  border-radius: 50px;
+  border: 2px solid transparent;
+  margin-left: auto;
+
+    margin-right:auto;
+  right: 0px;
+  left: 0px;
+  margin-right: auto;
+  background-color: rgb(247, 247, 253);
+  padding: 4px;
+  position: relative;
+
+}
+.line-chart{
+  position: relative;
+  width: 100%;
+height: auto;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  top:0px;
+  margin-bottom: 200px;
+  margin-top: auto!important;
+}
+.recharts-tooltip-label{color: #000!important;
+
+}
+
+.res{
+  width: 90%!important;
+  position: relative!important;
+  right: 0px!important;
+ left: 0px!important;
+  margin-right: auto!important;
+  max-height: 300px!important;
+  height: 500px!important;
+  margin-left: auto!important; background-color: transparent!important;}
+  tspan{
+    width: 1200px!important;
+    position: relative!important;
+    right: 0px!important;
+   left: 0px!important;
+    margin-right: auto!important;
+    margin-left: auto!important; background-color: transparent!important;}
+.recharts-cartesian-axis-tick-value{font-size: 20px!important; background-color: rgb(90, 90, 45)!important;}
+    .recharts-text{ background-color: rgb(90, 90, 45)!important;}
+    text{font-size: 20px!important;
+      background-color: rgb(90, 90, 45)!important;
+    }
+
+    .recharts-cartesian-axis-ticks{
+      background-color: rgb(90, 90, 45)!important;
+ font-size: 20px!important;
+      background-color: rgb(90, 90, 45)!important;
+    }
+    .tool{border: none!important;}
+    *{border: none!important;}
+
+

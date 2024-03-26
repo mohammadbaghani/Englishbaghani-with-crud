@@ -1,0 +1,73 @@
+.features {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .featureItem {
+      flex: 1;
+      margin: 0px 20px;
+      padding: 30px;
+      border-radius: 10px;
+      cursor: pointer;
+      box-shadow: 0 0 10px 4px rgb(226, 226, 226);
+  }
+  
+  .featureTitle {  
+      font-size: 18px;
+      border:2px solid rgb(245, 248, 252);
+      background-color: rgb(245, 245, 245);
+      border-right: 8px solid rgb(74, 111, 160);
+      color: rgb(0, 0, 0);
+      padding: 8px;
+      height: 60px;
+      border-radius: 2px;
+  }
+  
+  .featureContainer {
+      display: flex;
+      align-items: center;
+      margin: 10px 0px;
+  }
+  
+  .featureMoney {
+      font-size: 17px;
+      font-weight: 600;    
+  
+      color:rgb(29, 40, 56);
+      padding: 8px;
+      border-radius: 5px;
+      height: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  }
+  .featureMoney,.featureRate {    display: flex;
+      align-items: center;        margin-top: 15px;
+      justify-content: center;}
+  
+      .featureRate {
+          margin-left: 76px;
+        
+  
+          color: rgb(8, 12, 19);
+          font-size: 19px;
+          height: 40px;
+          width: 60px;
+          margin-right: 29px;   
+  }
+  
+  .featureIcon {
+      font-size: 24px;
+      margin-left: 5px;
+      color: green;
+  }
+  
+  .featureIcon.negative {
+      color: red;
+  }
+  
+  .featureSub {
+      font-size: 15px;
+      color: gray;
+  }

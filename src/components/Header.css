@@ -1,0 +1,605 @@
+@media only screen and (max-width: 1200px) {
+
+
+    .link-image {
+        display: none;
+    }
+
+    .button-register {
+
+        border: 1.5px solid rgb(0, 0, 0) !important;
+        font-weight: 700 !important;
+
+        color: #000000 !important;
+        transform: scale(1);
+        background-color: #ffffff !important;
+
+
+        width: 95px;
+        height: 39px;
+
+        position: absolute;
+
+        right: 800px !important;
+        top: 56px !important;
+
+        margin-left: auto;
+        text-align: center;
+        font-size: 14px;
+
+        border-radius: 6px !important;
+
+        border: none;
+
+        transition: all .2s ease;
+
+    }
+
+    .button-register:active {
+        transform: scale(.94);
+    }
+
+    .button-register:hover {
+        transition: all .2s ease;
+
+        border: 1.8px solid transparent !important;
+        border: 1.5px solid rgb(53, 70, 145) !important;
+        background-color: #5162b8 !important;
+        color: #ffffff !important;
+
+
+    }
+
+
+
+
+    .nav {
+        display: flex;
+        justify-content: space-between;
+        padding-left: 224px;
+        position: fixed;
+        text-decoration: none;
+        font-weight: bolder;
+        font-size: 16px !important;
+        z-index: 66666 !important;
+        height: 112px !important;
+        top: 0px;
+        padding-top: 40px !important;
+        width: 1185px;
+        margin-right: -513px;
+        padding-right: 96px;
+        margin-bottom: -15px;
+        height: 100px;
+        background-color: white;
+        border-bottom: 2px solid rgb(236, 236, 236);
+
+
+
+
+
+    }
+
+
+    .nav::before {
+        filter: blur(0px);
+        opacity: 15;
+        content: 'Pardisan';
+        display: flex;
+        font-size: 25px;
+        height: 40px;
+        justify-content: center;
+        margin-right: -178px;
+        position: fixed;
+        top: 0px;
+        align-items: center !important;
+        width: 1358px !important;
+        z-index: 1 !important;
+        background: rgb(59, 72, 160);
+        color: rgb(255, 255, 255) !important;
+    }
+
+    .navbrand:hover {
+
+        border-radius: 8px;
+
+        color: #ffffff !important;
+        background-color: #4079a8;
+        filter: sepia(0%);
+
+
+    }
+
+    .container {
+        top: 65px;
+        margin-left: auto;
+        max-width: none;
+        margin-right: auto;
+        display: block;
+    }
+
+
+
+    .container-valed-navbar {
+        width: 200px !important;
+        position: relative !important;
+
+    }
+
+
+
+    .valed-navbar {
+        width: 200px !important;
+        position: absolute !important;
+
+    }
+
+
+
+}
+
+@media only screen and (max-width: 992px) {
+
+
+    .css-1ontqvh {
+        list-style: none !important;
+        margin: 0px !important;
+        padding: 8px 0px !important;
+        position: relative !important;
+        right: -2px !important;
+        top: -9px !important;
+    }
+
+    .button-register {
+
+        top: 6px !important;
+        margin: 51px;
+        padding: 3px 4px;
+        border-radius: 8px !important;
+        margin-left: auto;
+        text-align: center;
+        font-size: 14px;
+
+
+
+        transform: scale(.9);
+        background-color: rgb(243, 244, 252);
+        color: #0a0a0a !important;
+        border: 1.8px solid #3a3a3a !important;
+
+        position: absolute;
+        right: 620px !important;
+
+
+    }
+
+    .button-register:active {
+        transform: scale(.94);
+    }
+
+    .button-register:hover {
+        transition: all .1s ease;
+        border: 1px solid rgb(255, 255, 255);
+        color: #ffffff;
+        font-size: 14px;
+        font-family: 'dana';
+        font-weight: 400 !important;
+        background-color: rgb(2, 0, 145);
+    }
+
+
+
+
+
+
+
+
+
+    .nav {
+
+
+        display: flex;
+        justify-content: space-between;
+        position: fixed;
+        text-decoration: none;
+        font-weight: bolder;
+        z-index: 66666 !important;
+        top: 4px;
+        width: 1049px;
+        padding-top: 19px;
+        padding-right: 524px;
+        right: 500px;
+    }
+
+
+    .nav::before {
+        filter: blur(0px);
+        opacity: 15;
+        content: 'Pardisan';
+        display: flex;
+        font-size: 25px;
+        height: 40px;
+        justify-content: center;
+        margin-right: -178px;
+        position: fixed;
+        right: -50px;
+        top: 0px;
+        align-items: center !important;
+        width: 1358px !important;
+        z-index: 1 !important;
+
+        color: rgb(255, 255, 255) !important;
+    }
+
+
+
+
+
+
+
+
+    .container {
+        top: 65px;
+    }
+
+
+
+
+
+
+
+}
+
+@media only screen and (max-width: 768px) {
+
+
+    .nav {
+        display: flex;
+        justify-content: space-between;
+        padding-left: 224px;
+        position: fixed;
+        text-decoration: none;
+        font-weight: bolder;
+        font-size: 16px !important;
+        z-index: 1;
+        height: 105px !important;
+        top: 0px;
+        padding-top: 16px !important;
+        width: 1185px;
+        margin-right: -513px;
+        padding-right: 96px;
+        margin-bottom: -15px;
+        height: 100px;
+
+
+
+
+
+
+
+    }
+
+
+
+    .button-register {
+        color: rgb(255, 245, 245);
+        width: 120px;
+        height: 50px;
+        background-color: #0c53bd;
+        position: fixed;
+
+        z-index: 30;
+        left: 1px;
+        top: 93px !important;
+        margin: 51px;
+        padding: 3px 4px;
+        border-radius: 8px !important;
+        margin-left: auto;
+        text-align: center;
+        font-size: 14px;
+        font-family: 'dana';
+        font-weight: 400 !important;
+        transform: scale(.85) !important;
+        border: 2px solid rgb(234, 243, 241);
+    }
+
+
+
+    .nav {
+
+        display: flex;
+        justify-content: space-between;
+
+        padding: 1rem 0;
+
+
+
+        position: fixed;
+        text-decoration: none;
+
+        font-weight: bolder;
+        font-size: 15px;
+        z-index: 66666 !important;
+        height: 56px;
+        display: none;
+        top: -21px;
+
+    }
+
+
+
+    .container {
+        top: 65px;
+    }
+
+
+
+
+
+
+
+
+}
+
+@media screen and (max-width: 576px) {
+    .css-1ontqvh {
+        list-style: none !important;
+        margin: 0px !important;
+        padding: 8px 0px !important;
+        position: relative !important;
+        right: -2px !important;
+        top: -9px !important;
+    }
+
+    .button-register {
+        color: rgb(186, 255, 240);
+        width: 120px;
+        height: 50px;
+        background-color: #020c22;
+        position: fixed;
+
+        z-index: 30;
+        right: -41px !important;
+        top: -23px !important;
+        margin: 51px;
+        padding: 3px 4px;
+        border-radius: 8px !important;
+        margin-left: auto;
+        text-align: center;
+        font-size: 14px;
+        font-family: 'dana';
+        font-weight: 400 !important;
+        border: 1px solid rgb(144, 243, 222);
+    }
+
+
+
+    .nav {
+        position: fixed;
+        text-decoration: none;
+        width: 1350px;
+        font-weight: bolder;
+        font-size: 15px;
+        z-index: 66666 !important;
+        height: 56px;
+        margin: 21px -91px;
+    }
+
+
+
+    .container {
+        top: 65px;
+    }
+
+
+
+
+
+}
+
+
+@media only screen and (min-width: 1200px) {
+
+    .css-3nargb {
+        box-sizing: border-box;
+        display: flex;
+        flex-flow: wrap;
+        margin-top: -16px;
+        width: calc(100% + 16px);
+        margin-left: -16px;
+        -webkit-box-align: center;
+        align-items: center;
+
+    }
+
+    .css-3nargb>.MuiGrid-item {
+        padding-left: 16px;
+    }
+
+    .css-10wahds {
+        margin: 0;
+        font-family: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        font-weight: 400;
+        font-size: 1rem;
+        line-height: 1.5;
+        scroll-snap-margin-top: calc(var(--MuiDocs-header-height) + 32px);
+        scroll-margin-top: calc(var(--MuiDocs-header-height) + 32px);
+        letter-spacing: 0;
+        color: var(--muidocs-palette-text-secondary);
+    }
+
+    .button-register {
+
+
+        width: 120px;
+        height: 43px;
+        border: none !important;
+        transition: all .1s ease;
+        position: absolute;
+        z-index: 30;
+        right: 1530px !important;
+        top: 56px !important;
+        padding-top: 0px;
+        border-radius: 6px !important;
+        margin-left: auto;
+        text-align: center;
+        font-size: 14px;
+        font-family: 'kalame';
+        padding-right: 29px;
+        border: 1.1px solid rgb(9, 12, 22) !important;
+        font-weight: 700 !important;
+        color: #000000 !important;
+        transform: scale(1);
+        background-color: transparent ;
+
+    }
+
+    .button-register:hover .userimage {
+
+        background-image: url("user11.png");
+    }
+
+    .userimage {
+        transform: scale(.55);
+        position: absolute;
+        right: -6px;
+        top: 5px;
+        width: 44px;
+        height: 33px;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        background-color: transparent;
+        padding: 17px;
+        background-image: url("user1.png");
+    }
+
+    .button-register:active {
+        transform: scale(.98);
+    }
+
+    .button-register:hover {
+
+        transition: all .2s ease;
+
+
+        border: 1.5px solid transparent !important;
+        background-color: #5162b8 !important;
+        color: #ffffff !important;
+
+
+
+
+    }
+
+    .container-valed-navbar {
+        width: 200px !important;
+        position: relative !important;
+
+    }
+
+
+
+    .valed-navbar {
+        width: 200px !important;
+        position: absolute !important;
+
+    }
+
+
+    .nav {
+
+
+
+
+
+
+
+
+
+
+        display: flex;
+        font-size: 15px;
+        height: 112px;
+        justify-content: space-between;
+        margin-right: -1219px;
+        padding: 25px 1021px 0 434px;
+        position: fixed;
+        top: 0px;
+        width: 2358px;
+        z-index: 44441 !important;
+
+    }
+
+    .nav::before {
+        filter: blur(0px);
+        opacity: 15;
+        content: 'Pardisan';
+        display: flex;
+        font-size: 25px;
+        height: 40px;
+        justify-content: center;
+        margin-right: -672px;
+
+        position: fixed;
+        top: 0px;
+        align-items: center !important;
+        width: 1958px !important;
+        z-index: 1 !important;
+        background: rgb(59, 72, 160);
+        color: rgb(255, 255, 255) !important;
+
+    }
+
+
+    .nav::after {
+        filter: blur(1px);
+
+        border-radius: 12px;
+        content: '';
+        margin-left: 0px !important;
+
+
+        background-color: #ffffff !important;
+        border-radius: 2px;
+        display: flex;
+        font-size: 15px;
+        height: 76px;
+        justify-content: space-between;
+        margin-right: -674px !important;
+        padding: 25px 121px 0 434px;
+        position: fixed;
+        top: 39px;
+        width: 1890px;
+        z-index: -1 !important;
+
+
+        border-bottom: 2px solid rgb(211, 222, 226);
+
+
+        background-image: linear-gradient(to left, rgb(244, 245, 255), rgb(243, 244, 255), rgb(240, 242, 255), rgb(241, 243, 255), rgb(237, 238, 255), rgb(228, 228, 255), rgb(228, 231, 255), rgb(180, 189, 255));
+        background-image: linear-gradient(to left, rgb(244, 245, 255), rgb(243, 244, 255), rgb(240, 242, 255),rgb(241, 243, 255), rgb(237, 247, 255),rgb(228, 241, 255), rgb(228, 239, 255), rgb(180, 219, 255));
+    }
+
+    .container {
+        top: 65px;
+    }
+
+    .secondy:hover .link-image {
+        filter: saturate(100%)
+    }
+
+    .link-image {
+        filter: saturate(90%);
+        position: absolute;
+        right: 0px;
+        top: 14px;
+        left: 144px;
+        margin-right: auto;
+        margin-left: auto;
+        width: 30px;
+        height: 30px;
+        transform: scale(.73);
+        border: 1px solid #676767;
+        border-radius: 29px;
+        display: none;
+    }
+}

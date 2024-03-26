@@ -1,0 +1,474 @@
+@media only screen and (max-width: 1200px) {
+
+  .copy {
+
+    border-radius: 0;
+    color: #fff !important;
+    font-family: 'Kalame';
+    font-size: 16px !important;
+    font-weight: 400 !important;
+    height: 55px !important;
+    line-height: 60px;
+    min-height: auto;
+    padding: 0px 10px 0px;
+    text-align: center;
+    text-shadow: none!important;
+    top: -32px;
+    width: 320px;
+    z-index: 444444;
+    background-color: rgb(30, 30, 167);
+    border-radius: 6px;
+    position: absolute;
+    left: 16px;
+    margin-right: auto;
+    margin-left: auto;
+
+
+}
+
+  .countrySelect {
+
+
+    margin-right: auto !important;
+    right: -117px !important;
+}
+
+  .citySelect {
+
+    right: 20px;
+  }
+
+  .citySelect,
+  .countrySelect {
+    font-family: 'dana';
+
+    left: 0px;
+    justify-content: center;
+    margin-left: auto;
+    background-color: transparent !important;
+   
+    position: absolute !important;
+    font-size: 15px !important;
+    border-radius: 6px !important;
+    height: 55px !important;
+    display: flex;
+    padding: 0rem 0px 0rem 0rem;
+   
+    width: 201px;
+
+    border: 2px solid rgb(56, 89, 196) !important;
+    color: #000000 !important;
+  }
+
+  .ticket-image {
+    top: 552px;
+    display: flex !important;
+    transform: scaleX(1.1)scale(.2) !important;
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+    right: 127px;
+    left: 0;
+    z-index: 333333;
+    width: 150px;
+    height: 100px
+  }
+
+  .ticket-image-tow {
+    display: flex !important;
+    transform: scaleX(1.2)scale(.2) !important;
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+    right: 512px;
+    left: 0;
+    z-index: 1;
+    width: 150px;
+    height: 100px;
+    top: 70px
+  }
+
+
+    .container-select {
+      margin-left: auto !important;
+      margin-right: auto !important;
+      position: relative !important;
+      top: -1255px !important;
+      height: 284px !important;
+      right: 0px !important;
+      background-image: linear-gradient(to left, rgb(4, 6, 124), #000b72,#000d7e,#2735b3,rgb(223, 229, 255));
+  }
+
+  .container-select-child {
+    display: flex !important;
+    height: 130px !important;
+    left: 0;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 0;
+    display: flex !important;
+    width: 805px;
+    z-index: 555555555;
+    border-radius: 15px;
+    background: #dbe2e5;
+    top: 81px;
+
+  }
+
+ 
+}
+
+@media only screen and (max-width: 992px) {
+
+
+  .container-select-child {
+   
+      height: 104px!important;
+      right: 0px;
+      top: -80px;
+      width: 650px!important;
+  }
+
+
+  .copy {
+    top: -200px !important;
+    font-size: 20px !important;
+    right: 0px;
+    left: 0px;
+    color: black!important;
+    margin-right: auto;
+    margin-left: auto;
+    background: transparent;
+    width: 600px!important;
+}
+  .container-select {
+    top: 422px !important; background-image: linear-gradient(to left, rgb(255, 255, 255), #ffffff,rgb(255, 255, 255));
+  }
+
+
+
+
+
+
+  .countrySelect {
+
+    left: 29px !important;
+    margin-right: auto !important;
+    right: 257px!important;
+    margin-left: auto;
+}
+  .citySelect {
+
+    right: 20px !important;
+
+    margin-left: auto !important;
+
+
+
+
+
+  }
+
+
+
+
+  .container-select {
+    top: 501px !important;
+    height: 213px !important;
+    z-index: 333;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+
+  .container-select {
+
+
+    top: 1430px !important;
+  }
+
+
+
+
+    .copy {
+      top: -200px !important;
+      font-size: 20px !important;
+      right: 0px;
+      left: 0px;
+      color: black!important;
+      margin-right: auto;
+      margin-left: auto;
+      background:transparent;
+      width: 400px!important;
+  }
+
+  .countrySelect {
+
+    width: 30% !important;
+  }
+
+  .citySelect {
+
+    width: 30% !important;
+  }
+}
+
+@media screen and (max-width: 576px) {
+
+  .container-select-child {
+    height: 82px !important;
+    width: 92% !important;
+    top: -84px !important;
+    padding-right: 10px !important;
+    border-radius: 6px !important;
+  }
+
+  .container-select {
+    top: -572px !important;
+
+    font-size: 11px !important;
+  }
+
+  .box {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    top: -529px !important;
+    position: relative;
+    right: 246px;
+
+
+  }
+
+  .countrySelect {
+    margin-right: auto !important;
+    padding-right: 10px !important;
+    right: 227px !important;
+    font-size: 11px !important;
+  }
+
+  .copy {
+    font-size: 17px !important;
+    top: -249px !important;
+    word-spacing: -3px;
+  }
+
+  .citySelect {
+    padding-right: 10px !important;
+    font-size: 11px !important;
+  }
+
+
+
+
+
+
+}
+
+
+
+
+
+@media screen and (max-width: 338px) {
+
+
+
+  .copy {
+    margin-top: 944px !important;
+    font-size: 9px;
+    position: relative;
+    left: 56px !important;
+    margin-left: -448px;
+    display: block !important;
+    right: -339px !important;
+    padding-top: 13px;
+    width: 216px !important;
+
+    padding-left: -14px;
+  }
+
+
+}
+
+
+
+
+
+@media screen and (min-width: 1200px) {
+
+
+
+  .option {
+    border-radius: 10px !important;
+    font-family: 'dana' !important;
+    font-weight: 400 !important;
+    color: #000 !important;
+    font-size: 14px !important;
+    background-color: #edf3f8 !important
+  }
+
+  .option:hover {
+    cursor: pointer !important;
+    background-color: #242437 !important
+  }
+
+  .move-select {
+    border-radius: 10px !important;
+    font-weight: 400 !important;
+    color: #fff !important;
+ 
+  }
+
+  .container-select-child {
+    display: flex !important;
+    height: 140px !important;
+    left: 0;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    right: 0;
+    top: 80px !important;
+    padding-bottom: 41px;
+    width: 956px;
+    z-index: 55555 !important;
+
+    border-radius: 6px;
+    background: #ecf1f3;
+    
+  
+   
+}
+  .copy {
+   
+    border-radius: 0;
+    color: #fff !important;
+    font-family: 'Kalame';
+    font-size: 18px !important;
+    font-weight: 400 !important;
+    height: 55px !important;
+    line-height: 60px;
+    min-height: auto;
+    padding: 0px 10px 0px;
+    text-align: center;
+    text-shadow: none!important;
+    top: -28px;
+    width: 380px;
+    z-index: 444444;
+    background-color: rgb(20, 20, 160);
+    border-radius: 6px;
+    position: absolute;
+    left: 35px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+  .container-select-child::before {
+    display: flex !important;
+    height: 429px !important;
+    left: 0 !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    position: absolute;
+    right: 466px !important;
+    top: -66px !important;
+    background-size: cover !important;
+    width: 584px;
+    z-index: 0 !important;
+    background-color: transparent;
+    border-radius: 9px;
+    object-fit: cover;
+    transform: scale(.6);
+    background-repeat: no-repeat;
+    content: '';
+ display: none!important;
+    filter: hue-rotate(-102deg);
+
+
+
+
+  }
+
+  .container-select {
+    top: -2133px!important;
+    background-image: linear-gradient(to left, rgb(7, 9, 126), #0a168a,#000d7e,#1927a3,rgb(13, 35, 133));
+    display: block !important;
+    height: 350px;
+    margin-left: auto;
+
+    margin-right: auto;
+    margin-top: 30px;
+    padding-right: 63px;
+    position: relative;
+    right: 0;
+}
+
+
+
+  .citySelect,
+  .countrySelect {
+    border: 2px solid rgb(146 148 157) !important;
+    color: #000000 !important;
+    right: 30px !important;
+    top: 43px !important;
+    font-size: 17px !important;
+    border-radius: 6px !important;
+    font-family: 'dana';
+    font-weight: 400 !important;
+    position: absolute !important;
+    width: 230px !important;
+    height: 55px !important;
+    font-weight: 400 !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: center !important;
+    padding: 0px 15px 0px 2px !important;
+    font-family: 'Kalame';
+    z-index: 44444444444 !important;
+
+}
+.countrySelect:active {
+  transform: translateY(1px);
+}
+
+
+
+.citySelect:active {
+  transform: translateY(1px);
+}
+
+
+
+  .citySelect {
+
+
+ right: none!important;
+
+ z-index: 44444444444444!important;
+
+left: 210px!important;
+
+
+
+
+  }
+
+  .ticket-image {
+
+
+    right: 70px !important;
+
+
+
+  }
+
+  .ticket-image-tow {
+
+    right: 420px !important;
+
+
+
+  }
+}

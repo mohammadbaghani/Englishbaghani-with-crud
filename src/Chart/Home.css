@@ -1,0 +1,14 @@
+iframe#webpack-dev-server-client-overlay{display:none!important}
+
+.home {
+    flex: 4 1;
+    position: relative;
+    top: 57px;
+}
+
+.homeWidgets {
+    display: flex;
+    margin: 20px;
+}
+
+

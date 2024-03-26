@@ -1,0 +1,670 @@
+.form-container:hover {
+  transition: 1s
+}
+
+::-webkit-input-placeholder {
+  color: #06011f;
+  font-size: 18px;
+  padding-right: -15px;
+  font-family: 'dana' !important;
+  opacity: .5 !important
+}
+
+.form-field {
+  margin: -2px 0 10px 0;
+  padding: 15px;
+  font-size: 16px;
+  border-bottom: #121214 1px solid;
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: 'dana' !important;
+  background-color: transparent !important;
+  padding-right: 0;
+  width: 212px;
+  height: 40px;
+  margin-right: auto;
+  margin-left: auto
+  
+}
+
+.form-enter {
+  top: 5px;
+  position: relative;
+  font-size: 20px;
+  width: 306px;
+  height: 38px !important;
+  text-align: center;
+
+  font-weight: 200;
+  background-color: #294dc4 !important;
+  color: #ffffff !important;
+  border-radius: 1px;
+  border: none !important;
+  font-family: 'dana' !important
+}
+
+span {
+  font-family: 'dana';
+  font-size: 25px;
+  color: rgb(255, 244, 246);
+  margin-bottom: 15px
+}
+
+input {
+  background: #f2f2f2
+}
+
+button {
+  color: white;
+  cursor: pointer
+}
+
+button:disabled {
+  cursor: default
+}
+
+@media screen and (max-width:1200px) {
+
+  .swal-overlay--show-modal{
+    z-index: 333333333333333;
+  }
+
+
+  .swal-title {
+    font-family: 'dana' !important;
+    font-weight: 400 !important;
+    color: #000000 !important;
+    font-size: 20px;
+    top: -19px
+  }
+
+  .swal-button {
+    font-family: 'dana';
+    background-color: rgb(0, 12, 185);
+    margin-right: auto;
+    margin-left: auto;
+    right: 165px;
+    position: absolute;
+    left: 0;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: -53px;
+    transform: scale(.7);
+    font-size: 20px;
+}
+
+
+  .table td,
+  .table th {
+    padding: 1.75rem;
+    border-top: 1px solid #dee2e6;
+    height: 69px;
+    font-weight: 400 !important
+  }
+
+  .havi {
+    top: -53px;
+    position: relative;
+    height: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 900px
+  }
+
+  .register-form:hover .form-enter {
+    color: #06011f
+  }
+
+  .moshakhasat {
+    color: #ffffff !important;
+    top: 54px;
+    font-size: 20px !important;
+    right: 0;
+    position: relative;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    left: 0;
+    border-top: none;
+    letter-spacing: -1px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    height: 80px;
+    justify-content: center;
+    background-color: #294dc4;
+    z-index: 44;
+    letter-spacing: 0px;
+    font-family: 'dana'!important;
+ 
+}
+  .form-enter {
+    
+
+    font-size: 15px;
+    font-weight: 200 !important;
+    border-radius: 0;
+    height: 41px !important;
+    padding-top: 10px !important;
+    position: relative;
+    text-align: center;
+    top: 5px;
+    min-width: 203px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: 'dana' !important;
+    right: -5px;
+    border-radius: 8px !important;
+
+  }
+
+  .form-enter:hover {
+    font-size: 20px;
+    font-weight: 200 !important;
+    border-radius: 8px !important;
+    transition: all .6s ease !important;
+    color: rgb(255, 255, 255) !important;
+    background-color: rgb(17, 32, 240) !important
+  }
+
+  .register-form {
+    display: flex;
+    height: 449px;
+    width: 364px;
+    flex-direction: column;
+    border-radius: 27px;
+    justify-content: space-evenly;
+    right: 0;
+    padding: 10px;
+    background-color: #fff;
+    top: 278px;
+    font-size: 17px !important;
+    font-family: 'dana' !important;
+    position: relative;
+    z-index: 1;
+    border: 2px solid rgb(27 26 52);
+    padding-right: 20px !important;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    transform: scale(1.2);
+    overflow: hidden
+  }
+
+  .form-container {
+    margin: auto;
+    position: relative;
+    padding-left: 20px;
+    width: 100% !important;
+    border-radius: 7px;
+    font-size: 40px;
+    font-weight: 900;
+    position: relative;
+    top: -35px;
+    z-index: 0;
+    margin-right: auto !important;
+    margin-left: auto !important;
+    background-color: white
+  }
+
+  ::-webkit-input-placeholder {
+    color: #070707 !important
+  }
+}
+
+@media screen and (max-width:956px) {
+  .form-enter {
+
+    background-color: rgb(247, 248, 253) !important;
+    color: rgb(1 1 4) !important;
+    font-size: 20px;
+    font-weight: 200;
+    height: 41px !important;
+    padding-top: 5px !important;
+    position: relative;
+    text-align: center;
+    top: 5px;
+    min-width: 197px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: 'dana' !important;
+    right: 0
+  }
+
+  .havi {
+    top: -27px;
+    position: relative;
+    height: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 90%
+  }
+
+ 
+
+  .form-field {
+    margin: -2px 0 10px 0;
+    padding: 15px;
+    font-size: 16px;
+    border-bottom: #7c7274 1px solid;
+    color: #000;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: 'dana';
+    padding-right: 0;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto
+  }
+}
+
+@media screen and (max-width:756px) {
+  .havi {
+    top: 211px;
+    position: relative !important;
+    height: 1195px;
+    margin-right: auto !important;
+    height: 1199px;
+    width: 90% !important
+  }
+
+  .moshakhasat {
+
+    top: -60px;
+    font-size: 13px !important;
+  
+  }
+
+  .form-field {
+    border-radius: 0;
+    height: 42px !important;
+    font-size: 21px;
+    font-weight: 200;
+    padding-top: 5px !important;
+    position: relative;
+    text-align: center;
+    top: 5px;
+    width: 79% !important;
+    font-family: 'dana' !important;
+    margin-right: auto;
+    margin-left: auto;
+    right: -6px
+  }
+
+  .form-enter {
+    height: 42px !important;
+    font-size: 21px;
+    font-weight: 200;
+    padding-top: 5px !important;
+    position: relative;
+    text-align: center;
+    top: 5px;
+    width: 75% !important;
+    font-family: 'dana' !important;
+    border-radius: 9px
+  }
+
+  .register-form {
+    display: flex;
+    height: 452px;
+    width: 428px;
+    flex-direction: column;
+    border-radius: 48px;
+    justify-content: space-evenly;
+    right: 829px;
+    padding: 10px;
+    background-color: #fff;
+    top: 268px;
+    font-size: 17px !important;
+    font-family: 'dana' !important;
+    position: relative;
+    z-index: 1
+  }
+
+  .form-container {
+    height: 350px;
+    padding-left: 20px;
+    width: 100% !important;
+    border-radius: 7px;
+    font-size: 40px;
+    font-weight: 900;
+    left: 812px;
+    position: relative !important;
+    top: -312px;
+    z-index: 0;
+    margin-top: 136px;
+    margin-right: auto !important;
+    margin-left: auto !important
+  }
+}
+
+@media screen and (max-width:576px) {
+  .form-field {
+    margin: -2px 0 10px 0;
+    padding: 15px;
+    font-size: 17px !important;
+    border-bottom: #7c7274 1px solid;
+    color: #000;
+    font-weight: 600;
+    font-family: 'dana';
+    padding-right: 0;
+    width: 80%;
+    height: 40px
+
+  }
+
+  .form-enter {
+    font-size: 20px;
+    font-weight: 400 !important;
+    padding-top: 6px !important;
+    text-align: center;
+    top: 5px;
+    min-width: 80%;
+    display: block;
+    padding-bottom: 29px;
+    padding-top: 4px !important;
+    font-family: 'dana' !important;
+    height: 40px !important
+  }
+
+  .havi {
+    top: 105px !important;
+    position: relative !important;
+    width: 85% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    right: 0
+  }
+
+  .moshakhasat {
+    font-size: 10px !important;
+ 
+
+    text-align: center;
+
+    top: -155px;
+   
+
+  }
+
+  .register-form {
+    border: 3px solid rgb(18, 9, 148) !important;
+    display: flex;
+    width: 81%;
+    flex-direction: column;
+    border-radius: 15px;
+    right: 0;
+    padding: 7px;
+    top: 0;
+    font-size: 17px !important;
+    font-family: 'dana' !important;
+    position: absolute;
+    height: 400px;
+    padding-right: 0;
+    margin-right: auto;
+    margin-left: auto;
+    left: 0;
+    padding-top: -13px
+  }
+
+  .form-container {
+    height: 355px;
+    margin: auto;
+    position: relative;
+    padding-left: 20px;
+    width: 90% !important;
+    border-radius: 7px;
+    font-size: 40px;
+    font-weight: 900;
+    left: 5px;
+    position: relative;
+    top: -141px;
+    z-index: 0;
+    margin-top: 189px
+  }
+
+  .col {
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0%;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    position: absolute;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    right: 0;
+    width: 64%;
+    flex-wrap: wrap
+  }
+}
+
+@media screen and (max-width:338px) {
+  .moshakhasat {
+    font-size: 12px !important;
+    font-family: 'dana' !important;
+    right: 2px;
+    position: absolute;
+    top: -184px;
+    width: 94% !important;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 30px;
+    padding-left: 20px
+  }
+
+  .form-enter {
+    color: #fff !important;
+    font-size: 25px !important;
+    font-weight: 200 !important;
+    padding-top: 3px;
+    position: absolute !important;
+    text-align: center !important;
+    top: 341px;
+    display: block !important;
+    max-width: 28% !important;
+    border-radius: 5px;
+    height: 33px !important;
+    border: none !important;
+    font-family: 'dana' !important;
+    right: -46px;
+    transform: scale(.4);
+    left: 12px;
+    margin-right: auto;
+    margin-left: auto
+  }
+}
+
+@media screen and (min-width:1200px) {
+
+  ::-webkit-input-placeholder {
+    color: #06011f;
+    font-size: 18px;
+    padding-right: -15px;
+    font-family: 'dana' !important;
+    opacity: .5 !important
+  }
+
+  .table td,
+  .table th {
+    padding: 1.75rem;
+    border-top: 1px solid #dee2e6;
+    height: 69px;
+
+    padding-right: 80px;
+}
+
+  .havi {
+
+    top: -313px;
+    position: relative;
+    height: 1357px;
+
+    padding-top: 758px;
+
+
+    margin: 351px auto 10px;
+    right: 0;
+    left: 0;
+    border-top: none;
+    border: 2px solid #d3d3d3;
+    overflow: hidden;
+
+  }
+
+  .moshakhasat {
+    color: #ffffff !important;
+    top: -760px;
+    font-size: 20px !important;
+    font-family: 'dana';
+    right: 0;
+    position: relative;
+    z-index: 0;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    left: 0;  border-top: none;
+    letter-spacing: 0px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    height: 80px;
+    justify-content: center;
+    background-color: #294dc4;
+
+  }
+
+  .register-form:hover {
+    transition: all .4s;
+    display: flex;
+    box-shadow: 0 4px 8px 4px rgb(158, 158, 170);
+    z-index: 1;
+    border: none !important
+  }
+
+  .register-form:hover .form-enter {
+    color: #06011f;
+    border-radius: 5px !important
+  }
+
+  .register-form {
+    display: flex;
+    height: 411px;
+    width: 347px;
+    flex-direction: column;
+    border-radius: 20px;
+    justify-content: space-evenly;
+    right: 0;
+    padding: 10px;
+    background-color: #fff;
+    top: 355px;
+    font-size: 17px !important;
+    font-family: 'dana' !important;
+    position: relative;
+    z-index: 1;
+    border: 2px solid rgb(18 18 20);
+    padding-right: 20px !important;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+    transform: scale(1.5);
+    overflow: hidden
+  }
+
+  .swal-button {
+    font-family: 'dana';
+    background-color: rgb(0, 12, 185);
+    margin-right: auto;
+    margin-left: auto;
+    right: 165px;
+    position: absolute;
+    left: 0;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: -53px;
+    transform: scale(.7);
+    font-size: 20px
+  }
+
+  .swal-title {
+    font-family: 'dana' !important;
+    font-weight: 400 !important;
+    color: #000000 !important;
+    font-size: 20px;
+    top: -19px
+  }
+
+  .swal-button:hover {
+    font-family: 'dana' !important;
+    background-color: rgb(0, 46, 173) !important
+  }
+
+  ::-webkit-input-placeholder {
+    font-family: 'dana'!important;
+    color: #070707 !important;
+    font-family: 'dana' !important;
+  }
+  .swal-overlay--show-modal{
+    z-index: 333333333333333;
+  }
+  .form-container {
+    height: 1115px;
+    padding-left: 20px;
+    width: 100%;
+    border-radius: 5px;
+    font-size: 40px;
+    font-weight: 900;
+    left: 0;
+    position: relative;
+    top: -858px;
+    z-index: 0;
+    margin-right: auto;
+    margin-left: auto;
+    right: 0
+  }
+
+  .formparent {
+    width: 403px
+  }
+
+  .form-enter {
+
+    background-color: rgb(46, 76, 226) !important;
+    color: rgb(255, 255, 255) !important;
+    font-size: 14px;
+    font-weight: 400 !important;
+  padding-top: auto!important;
+    text-align: center;
+    top: -6px;
+    min-width: 211px;
+
+    border-radius: 5px;
+    font-family: 'dana' !important;
+    height: 43px !important;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+
+  .form-enter:hover {
+    transition: all .6s ease !important;
+    color: rgb(255, 255, 255) !important;
+    background-color: rgb(16, 16, 31) !important;
+    border-radius: 5px;
+  }
+}
